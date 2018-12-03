@@ -1,0 +1,6 @@
+framework module Pods_sampleaws {
+  umbrella header "Pods-sampleaws-umbrella.h"
+
+  export *
+  module * { export * }
+}
